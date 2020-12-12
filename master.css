@@ -1,0 +1,53 @@
+h1 {
+  color: #55736A;
+text-align: center;
+font-size: 60px;
+font-family: serif;
+border: 5px solid  #55736A;
+border-radius: 25px
+
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  margin: 3%;
+}
+
+.left-column {
+  color: green;
+  background-color: #F28B30;
+  box-shadow: 8px 8px #758F74;
+  border-radius: 25px;
+  height: 600px;
+padding: 3%;
+}
+
+.right-column {
+  color: red;
+  background-color: #D93829;
+  box-shadow: 8px 8px #758F74;
+  border-radius: 25px
+
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 40px
+
+}
+
+ul {
+  color: white;
+  font-size: 30px;
+
+}
+
+img {
+  border-radius: 25px;
+
+}
